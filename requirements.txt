@@ -1,0 +1,4 @@
+cupy-cuda12x
+tqdm
+-i https://pypi.nvidia.com
+cudf-cu12
